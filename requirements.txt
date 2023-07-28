@@ -1,0 +1,9 @@
+async-timeout==4.0.2
+matplotlib==3.5.3
+numpy==1.23.3
+pandas==1.5.0
+pyparsing==3.0.9
+PyQt6==6.3.1
+PyQt6-Qt6==6.3.2
+PyQt6-sip==13.4.0
+pyqtgraph==0.13.1
